@@ -1,5 +1,6 @@
-# rust-single-template
+# rust-template-lib
 
+useage：
 - generate the single crate project with this template by use cargo generate command
 
 ```
