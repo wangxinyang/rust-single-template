@@ -1,13 +1,21 @@
-{{ project-name }}
+![](https://github.com/tyrchen/rust-lib-template/workflows/build/badge.svg)
+
+# {{ project-name }}
+
 description about the crate
 
-How to use it
-$ cargo generate --git https://github.com/tyrchen/rust-lib-template
+## How to use it
+
+```bash
+$ cargo generate --git https://github.com/wangxinyang/rust-single-template.git
+```
+
 Have fun with this crate!
 
-License
+## License
+
 This project is distributed under the terms of MIT.
 
-See LICENSE for details.
+See [LICENSE](LICENSE.md) for details.
 
-Copyright 2023 Tosei Wang
+Copyright 2021 Xinyang Wang
