@@ -1,4 +1,4 @@
-![](https://github.com/tyrchen/rust-single-template/workflows/build/badge.svg)
+![](https://github.com/wangxinyang/rust-single-template/workflows/build/badge.svg)
 
 # {{ project-name }}
 
